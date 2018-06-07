@@ -1,4 +1,4 @@
-# IntegracionContinua
+# Integracion Continua
 Primer ejercicio de Integración Continua "Hola Mundo".
 
 ## Inicio rápido
