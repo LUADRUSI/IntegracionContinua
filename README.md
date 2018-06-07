@@ -25,6 +25,7 @@ Ve al directorio del proyecto y ejecuta el servidor:
 `cd my-app`
 `ng serve --open`
 
+
 El comando `ng serve` inicia el servidor, reconstruye la aplicación a medida que realizas cambios en esos archivos.
 
 Usar la opción `--open` (o simplemente `-o`) abrirá automáticamente su navegador `http://localhost:4200/`.
